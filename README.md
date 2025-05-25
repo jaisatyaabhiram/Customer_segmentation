@@ -83,7 +83,6 @@ The dataset includes the following columns:
 - Gained insight into how spending habits and income correlate
 - Visualized customer groups using color-coded scatter plots
 
----
 
 ## 🖼️ Sample Visualization
 
